@@ -1,5 +1,6 @@
 # mint-nft
 Minting NFT on polygon testnet. Code taken from Polygon documentation. Using Solidity and Hard-Hat.
+https://wiki.polygon.technology/docs/develop/nftstorage/
 
 ## Installation
 
