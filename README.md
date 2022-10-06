@@ -16,7 +16,7 @@ When asked:  Select.
 What do you want to do? · Create an empty hardhat.config.js
 ```
 
-Create folders
+Create folders.
 ```
 mkdir contracts assets scripts
 ```
