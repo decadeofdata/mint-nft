@@ -31,7 +31,7 @@ node scripts/store-asset.mjs
 npx hardhat run scripts/deploy-contract.mjs --network PolygonMumbai
 ```
 
-Add info to mint-nft.mjs
+Add info to mint-nft.mjs.
 
 ```
 const CONTRACT_ADDRESS = ""
